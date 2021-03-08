@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612853294 source:d:\ai\lab\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+

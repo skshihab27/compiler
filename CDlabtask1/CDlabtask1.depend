@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612851773 source:d:\ai\cdlabtask1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1612852822 source:d:\ai\cdlabtask1\lab task 2.c
+	<stdio.h>
+	<string.h>
+
